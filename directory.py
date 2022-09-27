@@ -5,7 +5,7 @@ data = [
         "guest": "promazine",
         "host": "beta-cyclodextrin",
         "energy (kJ/mol)": -20.83,
-        "uncertainty": 0.1,
+        "uncertainty": 0.10,
     },
     {
         "guest": "promazine",
@@ -23,7 +23,7 @@ data = [
         "guest": "promethazine",
         "host": "beta-cyclodextrin",
         "energy (kJ/mol)": -18.72,
-        "uncertainty": 0.2,
+        "uncertainty": 0.20,
     },
     {
         "guest": "promethazine",
@@ -83,7 +83,7 @@ data = [
         "guest": "thioridazine",
         "host": "heptakis-6-methyl-beta-cyclodextrin",
         "energy (kJ/mol)": -29.40,
-        "uncertainty": 0.9,
+        "uncertainty": 0.90,
     },
     {
         "guest": "thioridazine",
@@ -108,6 +108,42 @@ data = [
         "host": "heptakis-2,6-dimethyl-betacyclodextrin",
         "energy (kJ/mol)": -23.19,
         "uncertainty": 0.16,
+    },
+    {
+        "guest": "plus-borneol",
+        "host": "6-O-4-chlorophenyl-beta-cyclodextrin",
+        "energy (kJ/mol)": -29.26,
+        "uncertainty": 0.05,
+    },
+    {
+        "guest": "plus-borneol",
+        "host": "6-O-4-bromophenyl-beta-cyclodextrin",
+        "energy (kJ/mol)": -28.18,
+        "uncertainty": 0.13,
+    },
+    {
+        "guest": "plus-borneol",
+        "host": "6-O-4-nitrophenyl-beta-cyclodextrin",
+        "energy (kJ/mol)": -28.7,
+        "uncertainty": 0.01,
+    },
+    {
+        "guest": "minus-borneol",
+        "host": "6-O-4-chlorophenyl-beta-cyclodextrin",
+        "energy (kJ/mol)": -28.27,
+        "uncertainty": 0.02,
+    },
+    {
+        "guest": "minus-borneol",
+        "host": "6-O-4-bromophenyl-beta-cyclodextrin",
+        "energy (kJ/mol)": -28.35,
+        "uncertainty": 0.00,
+    },
+    {
+        "guest": "minus-borneol",
+        "host": "6-O-4-nitrophenyl-beta-cyclodextrin",
+        "energy (kJ/mol)": -26.77,
+        "uncertainty": 0.28,
     },
 ]
 
