@@ -128,6 +128,11 @@ data = [
         "uncertainty": 0.01,
     },
     {
+        "guest": "plus-borneol",
+        "host": "6-O-4-hydroxybenzoyl-beta-cyclodextrin",
+        "energy (kJ/mol)": -28.09,
+        "uncertainty": 0.08,
+    {
         "guest": "minus-borneol",
         "host": "6-O-4-chlorophenyl-beta-cyclodextrin",
         "energy (kJ/mol)": -28.27,
@@ -145,6 +150,11 @@ data = [
         "energy (kJ/mol)": -26.77,
         "uncertainty": 0.28,
     },
+    {
+        "guest": "minus-borneol",
+        "host": "6-O-4-hydroxybenzoyl-beta-cyclodextrin",
+        "energy": -28.34,
+        "uncertainty": 0.0,
 ]
 
 with open("directory.p", "wb") as outfile:
